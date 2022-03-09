@@ -7,58 +7,60 @@
 Vytvořitl jsem aplikaci pro virtuální simulaci inteligentního domu, kde se simuluje chod domácnosti, používá se jednotlivá zařízení domu a spocita se spotřebu plynu, vody a eletriny ruznych zařízení .
 
 <h2>Funkční požadavky</h2>
-Funkční požadavek je zobrazen jako <strong>bold</strong>, splněný požadavek jako podbod v čistém textu a nesplněný/nedokončený požadavek je podbod v <em>italics</em><br>.
+Funkční požadavek je zobrazen jako <strong>bold</strong>, splněný požadavek jako podbod v čistém textu a nesplněný/nedokončený požadavek je podbod v <em>italics</em>.<br>
 
 <ol>
 <li><strong>Entity se kterými pracujeme je dům, okno (+ venkovní žaluzie), patro v domu, senzor, zařízení (=spotřebič), osoba, auto, kolo, domácí zvíře jiného než hospodářského typu, plus libovolné další entity</strong>
-
-1. Splněno v packages Devices, Resident a house
-2. <em>Bohuzel nepouzil jsem senzory a žaluzie</em>
-
+  <ul>
+    <li>Splněno v packages Devices, Resident a house
+    <li> <em>Bohuzel nepouzil jsem senzory a žaluzie</em>
+  </ul>
 <li><strong>Jednotlivá zařízení v domu mají API na ovládání. Zařízení mají stav, který lze měnit pomocí API na jeho ovládání. Akce z API jsou použitelné podle stavu zařízení. Vybraná zařízení mohou mít i obsah - lednice má jídlo, CD přehrávač má CD.</strong>
-
-1. Každé zařízení má vlastní stav, který se může změnit náhodně (zařízení má malou šanci na rozbití při puziti)
-2. Lidé mohou se zařízením interagovat a dospělí mohou rozbitá zařízení opravovat
-3. <em>Bohužel zařízení nemají měnitelný obsah.</em>
-
+<ul>
+<li> Každé zařízení má vlastní stav, který se může změnit náhodně (zařízení má malou šanci na rozbití při puziti)
+<li> Lidé mohou se zařízením interagovat a dospělí mohou rozbitá zařízení opravovat
+<li> <em>Bohužel zařízení nemají měnitelný obsah.</em>
+</ul>
 <li><strong>Spotřebiče mají svojí spotřebu v aktivním stavu, idle stavu, vypnutém stavu</strong>
-
-1. Zařízení spotřebovávají elektřinu, plyn a vodu podle svého stavu (aktivní spotřebuje víc než nečinné)
-
+<ul>
+<li> Zařízení spotřebovávají elektřinu, plyn a vodu podle svého stavu (aktivní spotřebuje víc než nečinné)
+</ul>
 <li><strong>Jednotlivá zařízení mají API na sběr dat o tomto zařízení. O zařízeních sbíráme data jako spotřeba elektřiny, plynu, vody a funkčnost (klesá lineárně s časem)</strong>
-
-1. Spotřeba se zaznamenává po ukonceni zadaneho casu.
-2. Pak se generujou reporty spotreby pro kazde zarizeni a i celkem kolik bylo spotrebovano plynu, vody a eletriny.
-
+<ul>
+<li> Spotřeba se zaznamenává po ukonceni zadaneho casu.
+<li> Pak se generujou reporty spotreby pro kazde zarizeni a i celkem kolik bylo spotrebovano plynu, vody a eletriny.
+</ul>
 <li><strong>Jednotlivé osoby a zvířata mohou provádět aktivity(akce), které mají nějaký efekt na zařízení nebo jinou osobu. Např. Plynovy_kotel_1[oteverny_plyn] + Otec.zavritPlyn(plynovy_kotel_1) -> Plynovy_kotel_1[zavreny_plyn].</strong>
-
-1. Osoby mohou se zařízením interagovat a po použití mají zařízení šanci, že se rozbijí.
-2. <em>Hlubší interakce se zařízeními bohužel není</em>
-
+</ul>
+<li> Osoby mohou se zařízením interagovat a po použití mají zařízení šanci, že se rozbijí.
+<li> <em>Hlubší interakce se zařízeními bohužel není</em>
+</ul>
 <li><strong>Jednotlivá zařízení a osoby se v každém okamžiku vyskytují v jedné místnosti (pokud nesportují) a náhodně generují eventy (eventem může být důležitá informace a nebo alert)</strong>
-
-1. Osoby i zvířata nachází se právě v jedné místnosti najednou a muzou generovat eventy (rozbiti zarizeni anebo zvirata mohou chtit se nechat pohladit nebo poprosit jist).
-
+<ul>
+<li> Osoby i zvířata nachází se právě v jedné místnosti najednou a muzou generovat eventy (rozbiti zarizeni anebo zvirata mohou chtit se nechat pohladit nebo poprosit jist).
+</ul>
 <li><strong>Eventy jsou přebírány a odbavovány vhodnou osobou (osobami) nebo zařízením (zařízeními)</strong>
-
-1. Opravovat rozbite zařízení muzou jen dospělé osoby
-
+<ul>
+<li> Opravovat rozbite zařízení muzou jen dospělé osoby
+</ul>
 <li><strong>Vygenerování reportů: HouseConfigurationReport, EventReport, ActivityAndUsageReport, ConsumptionReport</strong>
-
-1. Generuje se report o aktuální konfiguraci domu
-2. Generuje se report o aktuálních aktivitách v domě
-3. Generuje se report o aktuální spotřebě v domě
-4. Generuje se report o eventach v domě
-5. Všechny reporty se generují do společného souboru (ReportsFiles - {Nazev reportu}.txt)
-
+<ul>
+<li> Generuje se report o aktuální konfiguraci domu
+<li> Generuje se report o aktuálních aktivitách v domě
+<li> Generuje se report o aktuální spotřebě v domě
+<li> Generuje se report o eventach v domě
+<li> Všechny reporty se generují do společného souboru (ReportsFiles - {Nazev reportu}.txt)
+</ul>
 <li><strong>Při rozbití zařízení musí obyvatel domu prozkoumat dokumentaci k zařízení - najít záruční list, projít manuál na opravu a provést nápravnou akcí (např. Oprava svépomocí, koupě nového atd.). Manuály zabírají mnoho místa a trvá dlouho než je najdete.</strong>
-
-1. <em>Neni splneno</em>
-
+<ul>
+<li> <em>Neni splneno</em>
+</ul>
 <li><strong>Rodina je aktivní a volný čas tráví zhruba v poměru (50% používání spotřebičů v domě a 50% sport kdy používá sportovní náčiní kolo nebo lyže). Když není volné zařízení nebo sportovní náčiní, tak osoba čeká.</strong>
 
-
-1. <em>Bohuzel lidi nahodne pouzivaji zarizeni </em>
+<ul>
+<li> <em>Bohuzel lidi nahodne pouzivaji zarizeni </em>
+</ul>
+  
 </ol>
 <h2>Nefunkční požadavky</h2>
 <ul>

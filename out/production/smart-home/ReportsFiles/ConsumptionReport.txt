@@ -1,0 +1,16 @@
+Stove_96 Electricity: 0.0 , water: 0.0 , gas: 11991.0
+Toilet_91 Electricity: 0.0 , water: 1640.0 , gas: 0.0
+Stove_63 Electricity: 0.0 , water: 0.0 , gas: 17932.0
+Fridge_21 Electricity: 15605.0 , water: 0.0 , gas: 0.0
+Toilet_36 Electricity: 0.0 , water: 1140.0 , gas: 0.0
+WashMachine_73 Electricity: 3870.0 , water: 9675.0 , gas: 0.0
+PC_27 Electricity: 17162.0 , water: 0.0 , gas: 0.0
+Stove_35 Electricity: 0.0 , water: 0.0 , gas: 11736.0
+Sink_70 Electricity: 0.0 , water: 11149.0 , gas: 0.0
+TV_55 Electricity: 20870.0 , water: 0.0 , gas: 0.0
+Stove_71 Electricity: 0.0 , water: 0.0 , gas: 12177.0
+Treadmill_6 Electricity: 34555.0 , water: 0.0 , gas: 0.0
+Radio_9 Electricity: 1572.0 , water: 0.0 , gas: 0.0
+Toilet_42 Electricity: 0.0 , water: 1140.0 , gas: 0.0
+PC_27 Electricity: 23928.0 , water: 0.0 , gas: 0.0
+Total electricity: 117562.0 , water: 24744.0 , gas: 53836.0

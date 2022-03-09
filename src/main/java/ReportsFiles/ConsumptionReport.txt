@@ -1,0 +1,17 @@
+Toilet_91 Electricity: 0.0 , water: 1380.0 , gas: 0.0
+Toilet_15 Electricity: 0.0 , water: 1440.0 , gas: 0.0
+Stove_64 Electricity: 0.0 , water: 0.0 , gas: 11286.0
+Sink_51 Electricity: 0.0 , water: 11291.0 , gas: 0.0
+PC_11 Electricity: 24110.0 , water: 0.0 , gas: 0.0
+Phone_24 Electricity: 11843.0 , water: 0.0 , gas: 0.0
+Stove_48 Electricity: 0.0 , water: 0.0 , gas: 11858.0
+Treadmill_23 Electricity: 23065.0 , water: 0.0 , gas: 0.0
+PC_17 Electricity: 15348.0 , water: 0.0 , gas: 0.0
+DishWash_80 Electricity: 18550.0 , water: 27825.0 , gas: 0.0
+DishWash_60 Electricity: 5740.0 , water: 8610.0 , gas: 0.0
+WashMachine_1 Electricity: 18330.0 , water: 45825.0 , gas: 0.0
+Sink_5 Electricity: 0.0 , water: 14136.0 , gas: 0.0
+Treadmill_86 Electricity: 20925.0 , water: 0.0 , gas: 0.0
+Phone_32 Electricity: 11842.0 , water: 0.0 , gas: 0.0
+Sink_69 Electricity: 0.0 , water: 10343.0 , gas: 0.0
+Total electricity: 149753.0 , water: 120850.0 , gas: 23144.0

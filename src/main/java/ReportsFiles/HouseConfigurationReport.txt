@@ -1,0 +1,49 @@
+House
+ |-> First Floor
+  |--> Kitchen
+    |----> Devices:
+           •Toilet_91
+           •Toilet_15
+           •Stove_64
+    |----> Residents:
+           •Maggie
+           •Lisa
+           •Marge
+  |--> Living Room
+    |----> Devices:
+           •Sink_51
+           •PC_11
+    |----> Residents:
+           •Bart
+           •Santa's Little Helper
+  |--> Toilet Room
+    |----> Devices:
+    |----> Residents:
+  |--> Garage
+    |----> Devices:
+           •Phone_24
+           •Stove_48
+           •Treadmill_23
+    |----> Residents:
+           •Linux
+ |-> Second Floor
+  |--> Bedroom
+    |----> Devices:
+           •PC_17
+           •DishWash_80
+           •DishWash_60
+           •WashMachine_1
+    |----> Residents:
+           •Snowball V
+  |--> Bathroom
+    |----> Devices:
+           •Sink_5
+           •Treadmill_86
+    |----> Residents:
+           •Homer
+  |--> KidsRoom
+    |----> Devices:
+           •Phone_32
+           •Sink_69
+    |----> Residents:
+           •Charlotte 

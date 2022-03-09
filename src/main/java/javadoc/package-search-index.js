@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"device"},{"l":"device.devices"},{"l":"device.state"},{"l":"events"},{"l":"house"},{"l":"report"},{"l":"resident"},{"l":"resident.humans"},{"l":"resident.pets"},{"l":"utils"}];updateSearchResults();

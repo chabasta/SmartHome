@@ -1,0 +1,11 @@
+unnamed package
+device
+device.devices
+device.state
+events
+house
+report
+resident
+resident.humans
+resident.pets
+utils

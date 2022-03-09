@@ -1,0 +1,48 @@
+House
+ |-> First Floor
+  |--> Kitchen
+    |----> Devices:
+           •Stove_96
+           •Toilet_91
+    |----> Residents:
+           •Snowball V
+  |--> Living Room
+    |----> Devices:
+           •Stove_63
+           •Fridge_21
+           •Toilet_36
+    |----> Residents:
+           •Linux
+           •Santa's Little Helper
+  |--> Toilet Room
+    |----> Devices:
+           •WashMachine_73
+           •PC_27
+    |----> Residents:
+           •Homer
+  |--> Garage
+    |----> Devices:
+           •Stove_35
+    |----> Residents:
+           •Charlotte 
+ |-> Second Floor
+  |--> Bedroom
+    |----> Devices:
+           •Sink_70
+           •TV_55
+    |----> Residents:
+  |--> Bathroom
+    |----> Devices:
+           •Stove_71
+           •Treadmill_6
+           •Radio_9
+    |----> Residents:
+  |--> KidsRoom
+    |----> Devices:
+           •Toilet_42
+           •PC_27
+    |----> Residents:
+           •Maggie
+           •Lisa
+           •Bart
+           •Marge

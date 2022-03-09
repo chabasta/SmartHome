@@ -1,0 +1,375 @@
+---------------------------------
+|   Activity and Usage Report   |
+---------------------------------
+
+Santa's Little Helper:
+
+Left home 58x
+Got hungry 10x
+Smoked cigar 58x
+Done nothing 608x
+Wanted to be petted 21x
+Yelled 65x
+Moved to other room 575x
+  -> Garage 81x
+  -> Kitchen 75x
+  -> Bathroom 86x
+  -> Bedroom 73x
+  -> Living Room 84x
+  -> Toilet Room 92x
+  -> KidsRoom 84x
+Felt nostalgic for his youth 48x
+Read a book 57x
+
+Linux:
+
+grunted 322x
+Got hungry 7x
+Done nothing 570x
+Wanted to be petted 23x
+Moved to other room 578x
+  -> Garage 92x
+  -> Bathroom 89x
+  -> Kitchen 85x
+  -> Living Room 77x
+  -> Bedroom 81x
+  -> Toilet Room 73x
+  -> KidsRoom 81x
+
+Marge:
+
+Yelled 28x
+Moved to other room 198x
+  -> Garage 24x
+  -> Kitchen 32x
+  -> Bathroom 31x
+  -> Bedroom 25x
+  -> Living Room 32x
+  -> Toilet Room 28x
+  -> KidsRoom 26x
+Turned on idle usage of device 102x
+  -> TV 11x
+  -> PC 15x
+  -> Sink 10x
+  -> Stove 37x
+  -> WashMachine 8x
+  -> Radio 8x
+  -> Treadmill 5x
+  -> Fridge 8x
+One time usage of device 75x
+  -> Toilet 75x
+Read a book 30x
+Felt nostalgic for her youth 19x
+Left home 25x
+Turned off device 83x
+  -> TV 10x
+  -> PC 16x
+  -> Sink 9x
+  -> Stove 30x
+  -> WashMachine 4x
+  -> Radio 8x
+  -> Treadmill 3x
+  -> Fridge 3x
+Smoked cigar 26x
+Done nothing 650x
+Used transport 2x
+  -> Ski 2x
+Turned on device 80x
+  -> TV 11x
+  -> PC 14x
+  -> Sink 5x
+  -> Stove 28x
+  -> WashMachine 6x
+  -> Radio 6x
+  -> Treadmill 2x
+  -> Fridge 8x
+Repaired device 14x
+  -> TV 1x
+  -> PC 1x
+  -> Stove 7x
+  -> WashMachine 2x
+  -> Treadmill 3x
+
+Charlotte :
+
+Asked how the grandchildren are doing 37x
+Drank a glass of wine 27x
+Moved to other room 189x
+  -> Garage 35x
+  -> Bathroom 22x
+  -> Kitchen 25x
+  -> Living Room 19x
+  -> Bedroom 29x
+  -> Toilet Room 33x
+  -> KidsRoom 26x
+Turned on idle usage of device 81x
+  -> TV 7x
+  -> PC 15x
+  -> Sink 5x
+  -> Stove 31x
+  -> WashMachine 12x
+  -> Radio 3x
+  -> Treadmill 3x
+  -> Fridge 5x
+Felt nostalgic for his youth 29x
+Read a book 24x
+One time usage of device 49x
+  -> Toilet 49x
+Turned off device 77x
+  -> TV 6x
+  -> PC 15x
+  -> Sink 8x
+  -> Stove 26x
+  -> WashMachine 8x
+  -> Radio 4x
+  -> Treadmill 6x
+  -> Fridge 4x
+Done nothing 616x
+Knitted scarf 22x
+Used transport 2x
+  -> Ski 2x
+Turned on device 86x
+  -> TV 7x
+  -> PC 17x
+  -> Sink 8x
+  -> Stove 27x
+  -> WashMachine 9x
+  -> Radio 4x
+  -> Treadmill 6x
+  -> Fridge 8x
+Repaired device 7x
+  -> PC 1x
+  -> Sink 1x
+  -> Stove 5x
+
+Homer:
+
+Drank beer 30x
+Moved to other room 200x
+  -> Garage 23x
+  -> Bathroom 30x
+  -> Kitchen 37x
+  -> Living Room 27x
+  -> Bedroom 28x
+  -> Toilet Room 27x
+  -> KidsRoom 28x
+Turned on idle usage of device 86x
+  -> TV 6x
+  -> PC 14x
+  -> Sink 8x
+  -> Stove 35x
+  -> WashMachine 8x
+  -> Radio 6x
+  -> Treadmill 5x
+  -> Fridge 4x
+Felt nostalgic for his youth 34x
+One time usage of device 67x
+  -> Toilet 67x
+Read a book 21x
+Left home 21x
+Turned off device 82x
+  -> TV 7x
+  -> PC 10x
+  -> Sink 9x
+  -> Stove 33x
+  -> WashMachine 7x
+  -> Radio 5x
+  -> Treadmill 3x
+  -> Fridge 8x
+Done nothing 705x
+Smoked cigar 27x
+Used transport 5x
+  -> Ski 5x
+Turned on device 77x
+  -> TV 7x
+  -> PC 11x
+  -> Sink 9x
+  -> Stove 29x
+  -> WashMachine 8x
+  -> Radio 4x
+  -> Treadmill 6x
+  -> Fridge 3x
+Repaired device 7x
+  -> PC 2x
+  -> Stove 3x
+  -> Treadmill 1x
+  -> Fridge 1x
+
+Snowball V:
+
+Left home 73x
+Got hungry 10x
+Smoked cigar 71x
+Meowed 62x
+Done nothing 560x
+Wanted to be petted 25x
+Yelled 62x
+Moved to other room 582x
+  -> Garage 85x
+  -> Kitchen 85x
+  -> Bathroom 65x
+  -> Living Room 83x
+  -> Bedroom 75x
+  -> Toilet Room 86x
+  -> KidsRoom 103x
+Read a book 55x
+
+Maggie:
+
+Said Mama 21x
+Said Papa 24x
+Looked at toys 26x
+Moved to other room 197x
+  -> Garage 20x
+  -> Kitchen 32x
+  -> Bathroom 32x
+  -> Living Room 29x
+  -> Bedroom 31x
+  -> Toilet Room 24x
+  -> KidsRoom 29x
+Turned on idle usage of device 83x
+  -> TV 5x
+  -> PC 17x
+  -> Sink 10x
+  -> Stove 29x
+  -> WashMachine 9x
+  -> Radio 5x
+  -> Treadmill 5x
+  -> Fridge 3x
+One time usage of device 59x
+  -> Toilet 59x
+Turned off device 76x
+  -> TV 5x
+  -> PC 13x
+  -> Sink 5x
+  -> Stove 28x
+  -> WashMachine 13x
+  -> Radio 2x
+  -> Treadmill 3x
+  -> Fridge 7x
+Done nothing 557x
+Said agoo 23x
+Used transport 5x
+  -> Ski 5x
+Cried 31x
+Turned on device 85x
+  -> TV 7x
+  -> PC 15x
+  -> Sink 8x
+  -> Stove 30x
+  -> WashMachine 11x
+  -> Radio 2x
+  -> Treadmill 6x
+  -> Fridge 6x
+Repaired device 11x
+  -> PC 1x
+  -> Sink 1x
+  -> Stove 3x
+  -> WashMachine 2x
+  -> Treadmill 2x
+  -> Fridge 2x
+
+Bart:
+
+Turned off device 126x
+  -> TV 14x
+  -> PC 19x
+  -> Sink 10x
+  -> Stove 45x
+  -> WashMachine 11x
+  -> Radio 8x
+  -> Treadmill 9x
+  -> Fridge 10x
+Done nothing 727x
+Played with a ball 26x
+Turned on device 92x
+  -> TV 11x
+  -> PC 11x
+  -> Sink 11x
+  -> Stove 35x
+  -> WashMachine 5x
+  -> Radio 10x
+  -> Treadmill 4x
+  -> Fridge 5x
+Moved to other room 234x
+  -> Garage 28x
+  -> Bathroom 38x
+  -> Kitchen 40x
+  -> Living Room 27x
+  -> Bedroom 40x
+  -> Toilet Room 27x
+  -> KidsRoom 34x
+Turned on idle usage of device 85x
+  -> TV 12x
+  -> PC 11x
+  -> Sink 7x
+  -> Stove 29x
+  -> WashMachine 6x
+  -> Radio 9x
+  -> Treadmill 7x
+  -> Fridge 4x
+Repaired device 10x
+  -> TV 2x
+  -> PC 1x
+  -> Stove 4x
+  -> Treadmill 2x
+  -> Fridge 1x
+Plays computer games 38x
+Stole dad's beer 28x
+Read a book 25x
+One time usage of device 82x
+  -> Toilet 82x
+Did sport 27x
+
+Lisa:
+
+Danced 24x
+Talked to girlfriends 21x
+Moved to other room 178x
+  -> Garage 26x
+  -> Bathroom 24x
+  -> Kitchen 23x
+  -> Bedroom 31x
+  -> Living Room 23x
+  -> Toilet Room 28x
+  -> KidsRoom 23x
+Turned on idle usage of device 88x
+  -> TV 10x
+  -> PC 11x
+  -> Sink 8x
+  -> Stove 34x
+  -> WashMachine 7x
+  -> Radio 4x
+  -> Treadmill 4x
+  -> Fridge 10x
+Read a book 15x
+One time usage of device 60x
+  -> Toilet 60x
+Made origami 31x
+Turned off device 88x
+  -> TV 9x
+  -> PC 10x
+  -> Sink 6x
+  -> Stove 34x
+  -> WashMachine 9x
+  -> Radio 7x
+  -> Treadmill 8x
+  -> Fridge 5x
+Done nothing 612x
+Used transport 4x
+  -> Ski 4x
+did school assignments 22x
+Turned on device 84x
+  -> TV 6x
+  -> PC 12x
+  -> Sink 5x
+  -> Stove 37x
+  -> WashMachine 9x
+  -> Radio 8x
+  -> Treadmill 3x
+  -> Fridge 4x
+Repaired device 6x
+  -> Sink 2x
+  -> Stove 2x
+  -> WashMachine 1x
+  -> Treadmill 1x

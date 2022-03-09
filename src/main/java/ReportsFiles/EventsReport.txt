@@ -1,0 +1,13 @@
+---------------------------------
+|         Events Report         |
+---------------------------------
+DeviceNeedsToBeRepaired 59x
+  -> Marge 29x
+  -> Homer 9x
+  -> Charlotte  21x
+HungryAnimal 27x
+  -> Homer 12x
+  -> Charlotte  15x
+InNeedOfLoveAnimal 56x
+  -> Homer 21x
+  -> Charlotte  35x

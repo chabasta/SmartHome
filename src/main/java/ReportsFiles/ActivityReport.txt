@@ -1,0 +1,352 @@
+---------------------------------
+|   Activity and Usage Report   |
+---------------------------------
+
+Santa's Little Helper:
+
+Left home 46x
+Smoked cigar 60x
+Got hungry 12x
+Done nothing 587x
+Wanted to be petted 15x
+Yelled 56x
+Moved to other room 594x
+  -> Garage 92x
+  -> Bathroom 72x
+  -> Kitchen 69x
+  -> Bedroom 92x
+  -> Living Room 93x
+  -> Toilet Room 84x
+  -> KidsRoom 92x
+Felt nostalgic for his youth 69x
+Read a book 61x
+
+Linux:
+
+grunted 299x
+Got hungry 4x
+Done nothing 608x
+Wanted to be petted 20x
+Moved to other room 569x
+  -> Garage 79x
+  -> Bathroom 90x
+  -> Kitchen 73x
+  -> Bedroom 81x
+  -> Living Room 69x
+  -> Toilet Room 85x
+  -> KidsRoom 92x
+
+Marge:
+
+Felt nostalgic for her youth 40x
+Left home 29x
+Smoked cigar 38x
+Turned off device 80x
+  -> PC 12x
+  -> Sink 20x
+  -> Stove 9x
+  -> Phone 10x
+  -> WashMachine 8x
+  -> DishWash 10x
+  -> Treadmill 11x
+Done nothing 713x
+Yelled 34x
+Turned on device 85x
+  -> PC 15x
+  -> Sink 22x
+  -> Stove 8x
+  -> WashMachine 5x
+  -> Phone 12x
+  -> DishWash 10x
+  -> Treadmill 13x
+Moved to other room 200x
+  -> Garage 29x
+  -> Kitchen 35x
+  -> Bathroom 28x
+  -> Living Room 29x
+  -> Bedroom 30x
+  -> Toilet Room 29x
+  -> KidsRoom 20x
+Turned on idle usage of device 87x
+  -> PC 18x
+  -> Sink 22x
+  -> Stove 7x
+  -> Phone 15x
+  -> WashMachine 5x
+  -> DishWash 11x
+  -> Treadmill 9x
+Repaired device 19x
+  -> PC 4x
+  -> Sink 7x
+  -> Stove 4x
+  -> DishWash 1x
+  -> Treadmill 3x
+Read a book 30x
+One time usage of device 57x
+  -> Toilet 57x
+
+Charlotte :
+
+Asked how the grandchildren are doing 26x
+Turned off device 77x
+  -> PC 16x
+  -> Sink 18x
+  -> Stove 5x
+  -> WashMachine 5x
+  -> Phone 12x
+  -> DishWash 13x
+  -> Treadmill 8x
+Done nothing 717x
+Knitted scarf 27x
+Drank a glass of wine 34x
+Turned on device 94x
+  -> PC 20x
+  -> Sink 26x
+  -> Stove 13x
+  -> WashMachine 7x
+  -> Phone 11x
+  -> DishWash 13x
+  -> Treadmill 4x
+Turned on idle usage of device 83x
+  -> PC 14x
+  -> Sink 18x
+  -> Stove 9x
+  -> WashMachine 5x
+  -> Phone 15x
+  -> DishWash 15x
+  -> Treadmill 7x
+Moved to other room 224x
+  -> Garage 39x
+  -> Kitchen 27x
+  -> Bathroom 25x
+  -> Living Room 38x
+  -> Bedroom 34x
+  -> Toilet Room 33x
+  -> KidsRoom 28x
+Repaired device 13x
+  -> PC 3x
+  -> Sink 3x
+  -> Stove 1x
+  -> Phone 3x
+  -> DishWash 1x
+  -> Treadmill 2x
+Felt nostalgic for his youth 22x
+Read a book 19x
+One time usage of device 42x
+  -> Toilet 42x
+
+Homer:
+
+Left home 31x
+Drank beer 29x
+Smoked cigar 30x
+Turned off device 74x
+  -> PC 9x
+  -> Sink 23x
+  -> Stove 11x
+  -> WashMachine 4x
+  -> Phone 8x
+  -> DishWash 9x
+  -> Treadmill 10x
+Done nothing 714x
+Turned on device 101x
+  -> PC 11x
+  -> Sink 23x
+  -> Stove 12x
+  -> WashMachine 8x
+  -> Phone 21x
+  -> DishWash 13x
+  -> Treadmill 13x
+Moved to other room 222x
+  -> Garage 27x
+  -> Kitchen 34x
+  -> Bathroom 31x
+  -> Living Room 29x
+  -> Bedroom 37x
+  -> Toilet Room 38x
+  -> KidsRoom 26x
+Turned on idle usage of device 88x
+  -> PC 13x
+  -> Sink 32x
+  -> Stove 13x
+  -> WashMachine 4x
+  -> Phone 6x
+  -> DishWash 8x
+  -> Treadmill 12x
+Repaired device 21x
+  -> PC 4x
+  -> Sink 6x
+  -> Stove 1x
+  -> WashMachine 1x
+  -> Phone 7x
+  -> DishWash 1x
+  -> Treadmill 1x
+Felt nostalgic for his youth 23x
+Read a book 23x
+One time usage of device 51x
+  -> Toilet 51x
+
+Snowball V:
+
+Left home 69x
+Got hungry 11x
+Smoked cigar 53x
+Done nothing 583x
+Meowed 65x
+Wanted to be petted 21x
+Yelled 51x
+Moved to other room 587x
+  -> Garage 96x
+  -> Kitchen 85x
+  -> Bathroom 92x
+  -> Living Room 76x
+  -> Bedroom 88x
+  -> Toilet Room 81x
+  -> KidsRoom 69x
+Read a book 60x
+
+Maggie:
+
+Said Mama 25x
+Said Papa 27x
+Turned off device 86x
+  -> PC 12x
+  -> Sink 19x
+  -> Stove 8x
+  -> WashMachine 7x
+  -> Phone 15x
+  -> DishWash 8x
+  -> Treadmill 17x
+Looked at toys 32x
+Done nothing 739x
+Said agoo 33x
+Cried 27x
+Turned on device 87x
+  -> PC 6x
+  -> Sink 30x
+  -> Stove 5x
+  -> WashMachine 6x
+  -> Phone 10x
+  -> DishWash 12x
+  -> Treadmill 18x
+Ask some adult to repair device 34x
+  -> PC 10x
+  -> Sink 16x
+  -> Stove 2x
+  -> Phone 2x
+  -> Treadmill 4x
+Turned on idle usage of device 93x
+  -> PC 6x
+  -> Sink 29x
+  -> Stove 10x
+  -> WashMachine 7x
+  -> Phone 15x
+  -> DishWash 11x
+  -> Treadmill 15x
+Moved to other room 229x
+  -> Garage 26x
+  -> Bathroom 38x
+  -> Kitchen 33x
+  -> Living Room 33x
+  -> Bedroom 36x
+  -> Toilet Room 31x
+  -> KidsRoom 32x
+One time usage of device 33x
+  -> Toilet 33x
+
+Bart:
+
+Turned off device 90x
+  -> PC 11x
+  -> Sink 37x
+  -> Stove 9x
+  -> WashMachine 2x
+  -> Phone 9x
+  -> DishWash 9x
+  -> Treadmill 13x
+Done nothing 721x
+Played with a ball 28x
+Turned on device 107x
+  -> PC 15x
+  -> Sink 34x
+  -> Stove 10x
+  -> Phone 18x
+  -> WashMachine 5x
+  -> DishWash 7x
+  -> Treadmill 18x
+Ask some adult to repair device 46x
+  -> PC 11x
+  -> Sink 16x
+  -> Stove 7x
+  -> Phone 12x
+Turned on idle usage of device 82x
+  -> PC 10x
+  -> Sink 24x
+  -> Stove 6x
+  -> Phone 12x
+  -> WashMachine 8x
+  -> DishWash 7x
+  -> Treadmill 15x
+Moved to other room 253x
+  -> Garage 27x
+  -> Kitchen 32x
+  -> Bathroom 37x
+  -> Living Room 36x
+  -> Bedroom 39x
+  -> Toilet Room 38x
+  -> KidsRoom 44x
+Plays computer games 17x
+Read a book 27x
+One time usage of device 25x
+  -> Toilet 25x
+Stole dad's beer 24x
+Did sport 27x
+
+Lisa:
+
+Made origami 31x
+Danced 42x
+Turned off device 70x
+  -> PC 6x
+  -> Sink 17x
+  -> Stove 12x
+  -> WashMachine 7x
+  -> Phone 7x
+  -> DishWash 8x
+  -> Treadmill 13x
+Done nothing 709x
+did school assignments 34x
+Turned on device 89x
+  -> PC 16x
+  -> Sink 22x
+  -> Stove 15x
+  -> Phone 10x
+  -> WashMachine 4x
+  -> DishWash 6x
+  -> Treadmill 16x
+Ask some adult to repair device 22x
+  -> PC 12x
+  -> Sink 5x
+  -> Stove 1x
+  -> Phone 3x
+  -> DishWash 1x
+Talked to girlfriends 38x
+Turned on idle usage of device 87x
+  -> PC 11x
+  -> Sink 21x
+  -> Stove 14x
+  -> WashMachine 5x
+  -> Phone 7x
+  -> DishWash 8x
+  -> Treadmill 21x
+Moved to other room 224x
+  -> Garage 31x
+  -> Bathroom 32x
+  -> Kitchen 45x
+  -> Bedroom 29x
+  -> Living Room 30x
+  -> Toilet Room 28x
+  -> KidsRoom 29x
+Read a book 31x
+One time usage of device 74x
+  -> Toilet 74x
